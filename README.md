@@ -3,7 +3,7 @@ Language: Perl
 Category: Exploit
 Creator: mutr0l
 
-# ⚫ Enfia o script no cú mas caso começar a doer o problema é seu. ⚫
+# ⚫ Hi. ⚫
 
 # License:
 
